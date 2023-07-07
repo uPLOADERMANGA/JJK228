@@ -1,15 +1,15 @@
 {
   "title": "Jujutsu Kaise",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
+  "description": "1>",
+  "artist": "1",
+  "author": "1",
   "cover": "https://beebom.com/wp-content/uploads/2022/12/FEATURED-2.jpg",
   "chapters": {
     "228": {
       "title": " المعركة الحاسمة في شينجوكو الغير مأهولة المسكونة بالشياطين ",
-      "volume": "<volume number>",
+      "volume": "11",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/NfzjnBa/"
+        "ez": "/proxy/api/imgur/chapter/NfzjnBa"
       },
       "last_updated": "1616368746"
     },
